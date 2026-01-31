@@ -1,0 +1,15 @@
+Theory – Dynamic Soaring
+
+Dynamic soaring exploits wind shear between air layers of different velocities.
+
+An albatross gains kinetic energy when crossing wind gradients while performing
+controlled turns.
+
+This algorithm simplifies the phenomenon into:
+- Two wind layers
+- Energy balance
+- Heuristic controller
+- Stability optimization
+
+Although simplified, it captures the essential mechanism used by albatrosses
+and is suitable for computational experiments.
